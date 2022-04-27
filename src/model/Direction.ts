@@ -1,0 +1,1 @@
+export type AwailableDirection = 'left' | 'right' | 'up' | 'down'
