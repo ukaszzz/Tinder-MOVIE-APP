@@ -2,7 +2,7 @@ import { Recommendation } from '../model/Recommendation';
 import axios from 'axios';
 import { ActionType } from '../model/enums/ActionType';
 
-const baseUrl = 'http://localhost:3001';
+const baseUrl = 'https://my-json-server.typicode.com/ukaszzz/movie-tinder-db';
 
 const getRecommendationData = () => {
     return axios.get<Recommendation[]>(`${baseUrl}/recommendations`);
