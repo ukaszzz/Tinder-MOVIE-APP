@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tinder-MOVIE-APP/static/css/main.1cffc56b.css",
+    "main.js": "/Tinder-MOVIE-APP/static/js/main.1dc73c87.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Tinder-MOVIE-APP/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Tinder-MOVIE-APP/index.html",
+    "main.1cffc56b.css.map": "/Tinder-MOVIE-APP/static/css/main.1cffc56b.css.map",
+    "main.1dc73c87.js.map": "/Tinder-MOVIE-APP/static/js/main.1dc73c87.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Tinder-MOVIE-APP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cffc56b.css",
+    "static/js/main.1dc73c87.js"
+  ]
+}
